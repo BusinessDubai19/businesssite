@@ -1,0 +1,5 @@
+User-agent: GPTBot
+Disallow: /
+User-agent: *
+Disallow:
+Sitemap: https://businesssite-1bp.pages.dev/sitemap.xml
